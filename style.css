@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-weight: bold;
+}
+
+.ox{
+
+    background-image: url("bg1.jpg");
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 180vh;
+   
+
+ 
+}
+
+.h1{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    font-family: "handle" , cursive;
+    text-shadow: 3px 3px rgb(175, 104, 115);
+    color: orchid;
+}
+
+.main-box{
+    width: 40vw;
+    height: 160vh;
+    border: 3px solid black;
+    border-radius: 10%;
+    justify-content: center;
+    background-color: transparent;
+    
+    align-items: center;
+    
+}
+
+.flex
+{
+    display: flex;
+    margin-left: 2rem;
+    justify-content: center;
+}
+.img{
+
+    height: 90vh;
+    width: 23vw;
+    border-radius: 10%;
+    opacity: .8;
+
+
+}
+
+.boy-img{
+    margin-right: 2rem;
+}
